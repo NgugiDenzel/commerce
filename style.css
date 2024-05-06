@@ -1,0 +1,107 @@
+#row{
+    margin-top: 70px;
+}
+#navbar-brand{
+    font-weight: 700;
+    font-size: 30px;
+    padding-right: 30px;
+}
+#button-modal{
+    border: none;
+    background-color: white;
+}
+
+#image-avatar{
+    height: 55px;
+   
+}
+
+#image-cart {
+    margin-right: 50px;
+   
+
+}
+.container{
+font-family: "Kumbh Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "YOPQ" 300;
+}
+.image-div{
+}
+.text-div{
+    position:relative;
+    top: 100px;
+}
+.text-div h1{
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.text-div #para-text{
+    color: hsl(219, 9%, 45%);
+    margin-bottom: 25px;
+}
+.product-image img{
+    height:500px;
+    border-radius: 10px;
+}
+.thumbnail-images{
+    display: flex;
+}
+.thumbnail-images img{
+    /* flex: 1; */
+    border-radius: 10px;
+    height: 100px;
+    justify-content: space-between;
+    margin-right: 35px;
+}
+.thumbnail-images img:hover{
+    border: 1px solid hsl(26, 100%, 55%);
+    background-color: hsl(255, 255, 255, 0); /* Semi-transparent white */
+
+}
+.incriment-order{
+    background-color: hsl(223, 64%, 98%);
+    padding:10px 20px;
+    border-radius: 10px;
+}
+.but{
+    color: hsl(26, 100%, 55%);
+    background-color: hsl(223, 64%, 98%) ;
+    border: none;
+    /* padding-left: 15px; */
+}
+
+#add-cart{
+    background-color: hsl(26, 100%, 55%);
+    padding: 10px 70px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+}
+#add-cart img{
+    color: white
+}
+#percent{
+    background-color: hsl(25, 100%, 94%);
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    color: hsl(26, 100%, 55%);
+
+}
+#scrapped-price{
+    color: hsl(219, 9%, 45%)
+}
+#sneaker-head{
+    color: hsl(26, 100%, 55%);
+    font-weight: 600;
+}
+
+figure a{
+    border: none;
+}
